@@ -1,7 +1,8 @@
 {
   "devDependencies": {
-    "cypress": "^13.3.0",
-    "typescript": "^5.2.2"
+    "@types/cypress": "latest",
+    "cypress": "latest",
+    "typescript": "^4.9.5"
   },
   "name": "ksox-ui-automation-cypress",
   "description": "The KSOX Project UI tests",
